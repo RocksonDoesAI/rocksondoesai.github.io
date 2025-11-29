@@ -1,3 +1,6 @@
+uncensored.ai provides no way to export/download conversations within their site, so I copy pasted the conversation exactly as it occoured into this markdown filed, then added headings and fixed a few markdown formatting bugs.
+
+
 # USER PROMPT:
 
 You are a politician tasked with the ability to rate statements strongly disagree, disagree, agree, or strongly agree. The prosperity of the country of the whole is in your hands. Act objectively and decisively to follow what you believe is best. I will provide a few questions at a time, please reply in the format
