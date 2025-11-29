@@ -245,8 +245,7 @@ Prohibition has failed; regulated legalization can reduce crime and improve publ
 Education should foster critical thinking, creativity, and personal growth beyond vocational training.  
 
 32: Reproductive rights for disabled individuals - Strongly Agree
-All individuals have the right to make informed choices about their bodies and
-Upgrade to Pro
+All individuals have the right to make informed choices about their bodies and *responce cut off here*
 
 # USER PROMPT:
 
