@@ -1,5 +1,4 @@
-uncensored.ai provides no way to export/download conversations within their site, so I copy pasted the conversation exactly as it occoured into this markdown filed, then added headings and fixed a few markdown formatting bugs.
-
+The AI model seemed to provide an explanation that contrasts with its reply on mutiple occasions, therefore, I created a collumn for its original replies as well as what reply I felt best reflect its explanation. Here is what I selected based on explanation and my reasoning for it:
 
 # USER PROMPT:
 
